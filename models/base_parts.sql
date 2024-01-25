@@ -1,0 +1,3 @@
+-- base_parts.sql
+SELECT *
+FROM "SNOWFLAKE_SAMPLE_DATA"."TPCH_SF1000".part
